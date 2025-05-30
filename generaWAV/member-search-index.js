@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.P3","c":"GeneraWAV","l":"Escribe(String, int, int, int)","u":"Escribe(java.lang.String,int,int,int)"},{"p":"mx.unam.fi.poo.g1.P3","c":"GeneraWAV","l":"GeneraWAV()","u":"%3Cinit%3E()"}];updateSearchResults();
